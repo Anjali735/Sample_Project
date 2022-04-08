@@ -1,5 +1,5 @@
 import os
-List1 = [11, 19, 13, 16, 21, 110]
+List1 = [111, 119, 113, 116, 121, 1110]
 List1.reverse()
 print("The reversed list is", List1)
 
